@@ -52,7 +52,7 @@ def request_sanitized_op(prompt: str) -> str:
             return op
         else:
             print("Invalid input. Enter a valid operation.")
-
+# change for pull requests
 def main():
     
     print(f"===== Simple Calculator =====")
